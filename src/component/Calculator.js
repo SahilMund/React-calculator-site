@@ -135,7 +135,7 @@ function Calculator() {
       <div className="wrapper">
         <div className="screen">
           {input !== "" || input === "0" ? (
-            // using NumericFormat to disabling leading zeros in the input field
+            // using NumericFormat to enabling/ disabling leading zeros in the input field
             <>
               <NumericFormat
                 value={input}
