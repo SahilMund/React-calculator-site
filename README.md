@@ -1,7 +1,7 @@
 # React Calculator 
 
 
-## Featuers :-
+## Features :-
 
 ```
 Created a simple calculator app that is having the following features.
