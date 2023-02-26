@@ -16,6 +16,8 @@ Equals
 
 ## Deploy URL :-
 
+👉 https://sahilmund.github.io/React-calculator-site/
+
 
 ## Steps to run the project
 
